@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Maika Manalang Guzman
-- 👀 I’m interested in dancing
 - 🌱 I’m currently learning Javascript
 - 📫 How to reach me, email: glam16guzman@gmail.com
 
